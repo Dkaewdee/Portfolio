@@ -1,0 +1,133 @@
+---
+title: "Home"
+description: "Portfolio of Dia Kaewdee, a Business Administration student at Cal Poly Pomona specializing in retail marketing, consumer behavior, and digital analytics."
+---
+
+:::::::: hero
+::::::: hero-grid
+:::: {}
+<p class="hero-tag">
+
+Business Administration \| Marketing Focus \| Retail Experience \| Digital Analytics
+
+</p>
+
+# Hi, I’m Dia Kaewdee.
+
+I am a Business Administration student at Cal Poly Pomona with a focus on marketing, and an interest in consumer behavior, retail marketing, fashion, brand strategy, and digital analytics. My work combines creative thinking with data-driven decision making, especially in areas where customer experience and marketing strategy connect.
+
+My portfolio highlights projects using Quarto, GitHub, Google Analytics, Looker Studio, BigQuery, Excel, Tableau, and R. It also reflects my customer-facing retail experience, which has helped me understand how people make purchasing decisions in real business settings.
+
+::: button-row
+[View My Projects](projects.qmd){.button} [View Portfolio](portfolio.qmd){.button-secondary}
+:::
+::::
+
+:::: hero-photo
+![](images/profile.jpg)
+::::
+:::::::
+::::::::
+
+:::: section
+## Professional Focus
+
+I am interested in marketing roles that combine creativity, customer insight, and measurable strategy. My career interests include fashion and retail marketing, digital marketing, brand strategy, consumer behavior, and marketing analytics.
+
+::: highlight-box
+My goal is to build a marketing career where I can use both creativity and data to understand customers, communicate brand value, and support stronger business decisions.
+:::
+::::
+
+::: section-light
+## Education
+
+**Bachelor of Science in Business Administration**\
+California State Polytechnic University, Pomona\
+*Highest Honors — 3.7+ GPA*
+
+My coursework has helped me build a foundation in marketing strategy, analytics, business communication, data visualization, and digital tools. These skills support my interest in understanding customers and creating marketing strategies that are both creative and measurable.
+:::
+
+::::::: section
+## Skills Snapshot
+
+:::::: card-grid
+::: card
+### Marketing
+
+- Consumer behavior
+- Retail marketing
+- Brand strategy
+- Digital marketing
+- Customer insights
+- Professional communication
+:::
+
+::: card
+### Analytics
+
+- Google Analytics
+- Looker Studio
+- BigQuery
+- Excel
+- Tableau
+- Data visualization
+:::
+
+::: card
+### Technical Tools
+
+- Quarto
+- GitHub Pages
+- R
+- Revealjs presentations
+- Website publishing
+- Portfolio design
+:::
+::::::
+:::::::
+
+:::::: section-light
+## Featured Strengths
+
+::::: two-column
+::: card
+### Customer-Focused Perspective
+
+My retail experience has helped me understand customers directly. Working with customers has shown me how preferences, lifestyle, fit, price, and brand perception all influence buying decisions.
+:::
+
+::: card
+### Data-Driven Communication
+
+My coursework has helped me use data tools to explain patterns, evaluate performance, and communicate insights clearly. I enjoy turning information into something organized, useful, and easy to understand.
+:::
+:::::
+::::::
+
+::::::: section
+## Portfolio Overview
+
+This website includes selected projects and reflections from my marketing analytics coursework. It is designed for prospective employers, classmates, and instructors who want to understand my professional interests, technical skills, and growth as a student pursuing a career in marketing.
+
+:::::: card-grid
+::: card
+### Projects
+
+A collection of marketing, analytics, dashboard, and website projects that show my ability to apply class concepts in practical ways.
+:::
+
+::: card
+### Dashboard
+
+A section focused on data visualization and reporting, showing how dashboards can help marketers communicate performance.
+:::
+
+::: card
+### Presentation
+
+A Revealjs presentation created with Quarto to demonstrate technical communication and professional slide design.
+:::
+::::::
+:::::::

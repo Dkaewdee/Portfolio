@@ -1,0 +1,250 @@
+---
+title: "Portfolio"
+description: "Professional portfolio page for Dia Kaewdee."
+---
+
+::: section
+# Professional Portfolio
+
+This page provides a more complete overview of my education, career interests, work experience, technical skills, and professional goals. It is designed for prospective employers, instructors, and others who want to learn more about my background in marketing and analytics.
+:::
+
+:::: section-light
+## Professional Profile
+
+I am a Business Administration student at Cal Poly Pomona with a focus on marketing, and an interest in retail marketing, fashion, consumer behavior, digital marketing, and brand strategy. My academic work has helped me build technical skills in analytics, visualization, and website publishing, while my retail experience has helped me understand customers in a real business setting.
+
+::: highlight-box
+I am especially interested in marketing roles that allow me to combine creativity, customer insight, and data-driven decision making.
+:::
+::::
+
+:::: section
+## Resume
+
+::: card
+### Resume Download
+
+Download my current resume to see my full education, experience, and skills.
+
+<div class="button-row">
+
+[Download Resume (PDF)](resume.pdf){.button target="_blank"}
+
+</div>
+:::
+::::
+
+::: {.section-light}
+
+## Education
+
+::: {.card}
+
+### California State Polytechnic University, Pomona
+
+**Bachelor of Science in Business Administration**
+
+**Expected Graduation:** May 2027
+
+**Highest Honors** — 3.7+ GPA
+
+Relevant coursework includes:
+
+- Marketing Analytics
+- Digital Marketing
+- Consumer Behavior
+- Business Analytics
+- International Business
+- Finance
+- Data Visualization
+
+:::
+
+::: {.card}
+
+### Citrus College
+
+**Associate of Science, Business Administration**
+
+Completed foundational coursework in business administration before transferring to Cal Poly Pomona.
+
+:::
+
+:::
+
+::: {.section}
+
+## Work Experience
+
+::: {.card}
+
+### Nordstrom | Sales Associate
+
+Working in retail has strengthened my customer communication, product knowledge, and problem-solving skills. My experience has helped me better understand how customers make purchasing decisions and how product presentation, branding, and service influence the customer experience.
+
+**Key Responsibilities**
+
+- Assisted customers in selecting products that met their needs.
+- Built product knowledge across multiple premium brands.
+- Provided personalized customer service.
+- Helped create a positive shopping experience.
+- Worked collaboratively with team members to achieve department goals.
+
+::: highlight-box
+Selected as the store's **Mother Denim Striker**, serving as a department resource for premium denim knowledge, fit guidance, merchandising, and brand education.
+:::
+
+:::
+
+:::
+
+::: {.section-light}
+
+## Career Interests
+
+::: {.card-grid}
+
+::: {.card}
+
+### Retail & Fashion Marketing
+
+I enjoy understanding customer behavior, brand positioning, and how marketing influences purchasing decisions within the retail industry.
+
+:::
+
+::: {.card}
+
+### Brand Strategy
+
+I am interested in helping companies communicate their value through consistent branding, storytelling, and customer-focused marketing.
+
+:::
+
+::: {.card}
+
+### Marketing Analytics
+
+I enjoy using data to evaluate marketing performance, identify trends, and support better business decisions.
+
+:::
+
+:::
+
+:::
+
+::: {.section}
+
+## Technical Skills
+
+<span class="badge">Google Analytics</span>
+
+<span class="badge">Looker Studio</span>
+
+<span class="badge">BigQuery</span>
+
+<span class="badge">Excel</span>
+
+<span class="badge">Tableau</span>
+
+<span class="badge">R</span>
+
+<span class="badge">Quarto</span>
+
+<span class="badge">GitHub Pages</span>
+
+<span class="badge">Revealjs</span>
+
+<span class="badge">Data Visualization</span>
+
+:::
+
+::: {.section-light}
+
+## Professional Skills
+
+::: {.two-column}
+
+::: {.card}
+
+### Communication
+
+My coursework and retail experience have helped me communicate effectively with customers, classmates, and instructors. I have learned how to present technical information in a clear and organized way.
+
+:::
+
+::: {.card}
+
+### Customer Insights
+
+Working directly with customers has given me a practical understanding of consumer behavior, purchasing decisions, and customer experience.
+
+:::
+
+::: {.card}
+
+### Organization
+
+Building projects in Quarto has strengthened my ability to organize information, create professional layouts, and communicate ideas effectively.
+
+:::
+
+::: {.card}
+
+### Creativity
+
+I enjoy combining creativity with marketing strategy through branding, visual communication, and professional website design.
+
+:::
+
+:::
+
+:::
+
+::: {.section}
+
+## Certifications & Professional Development
+
+::: {.card}
+
+Current coursework and professional development include:
+
+- Google Analytics
+- Google BigQuery
+- Looker Studio
+- Quarto Website Development
+- GitHub Pages
+- Tableau
+- Microsoft Excel for Business Analytics
+
+I look forward to continuing to build on these skills throughout the rest of my degree.
+
+:::
+
+:::
+
+::: {.section-light}
+
+## Contact
+
+If you would like to learn more about my work or connect professionally, feel free to reach out.
+
+<div class="button-row">
+
+[GitHub](https://github.com/dkaewdee){.button}
+
+[LinkedIn](https://www.linkedin.com/in/dia-kaewdee-12a052386){.button-secondary}
+
+</div>
+
+:::
+
+::: {.section}
+
+## Portfolio Summary
+
+This portfolio reflects the skills and experience I have developed throughout my marketing coursework. It combines technical projects, analytics, data visualization, and professional communication into one website that represents my growth as I pursue a career in marketing.
+
+As I continue developing my career, I look forward to applying these skills in professional marketing environments where I can contribute through creativity, customer insight, and data-driven decision making.
+
+:::

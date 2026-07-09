@@ -1,0 +1,95 @@
+---
+title: "Marketing Analytics Portfolio"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    transition: fade
+---
+
+# Marketing Analytics Portfolio
+
+### Dia Kaewdee
+
+Business Administration Student
+
+Cal Poly Pomona
+
+------------------------------------------------------------------------
+
+# About Me
+
+- Business Administration major with a marketing focus at Cal Poly Pomona
+- Highest Honors — 3.7+ GPA
+- Interested in retail marketing and consumer behavior
+- Passionate about combining creativity with analytics
+- Selected as Nordstrom's "Mother Denim Striker" for premium denim expertise
+- Building skills in digital marketing and data visualization
+
+------------------------------------------------------------------------
+
+# Technical Skills
+
+- Google Analytics
+- Quarto
+- GitHub Pages
+- Looker Studio
+- BigQuery
+- Tableau
+- Excel
+- R
+
+------------------------------------------------------------------------
+
+# Featured Projects
+
+## Google Analytics
+
+- Practiced in Google's official GA4 Demo Account (Google Merchandise Store data)
+- Analyzed acquisition, engagement, and ecommerce reports
+- Built a funnel exploration to identify purchase drop-off points
+- Applied concepts toward GA4 Certification prep
+
+------------------------------------------------------------------------
+
+## Dashboard Development
+
+- Built an interactive dashboard in Quarto for my Module 10 project
+- Combined multiple visualizations into one organized interface
+- Focused on clear, decision-ready marketing reporting
+- Designed for both desktop and in-browser viewing
+
+------------------------------------------------------------------------
+
+## Portfolio Website
+
+- Six-page site built with Quarto and published on GitHub Pages
+- Custom styling for a clean, professional look
+- Organized navigation across Home, Projects, Dashboard, Google Analytics, and Presentation
+- SEO-friendly page titles and descriptions
+
+------------------------------------------------------------------------
+
+# What I Learned
+
+Throughout this course I strengthened both my technical and communication skills. I became more comfortable using marketing analytics tools while also learning how to present information in a professional and organized way.
+
+------------------------------------------------------------------------
+
+# Career Goals
+
+I hope to pursue a career in marketing where I can combine customer insights, creativity, and data to help businesses build stronger relationships with their audiences.
+
+------------------------------------------------------------------------
+
+# Let's Connect
+
+[linkedin.com/in/dia-kaewdee-12a052386](https://www.linkedin.com/in/dia-kaewdee-12a052386)
+
+dia.kaewdee99@gmail.com
+
+------------------------------------------------------------------------
+
+# Thank You
+
+Thank you for visiting my portfolio.
